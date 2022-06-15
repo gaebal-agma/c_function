@@ -1,0 +1,4 @@
+﻿  hex.c
+D:\project\hex\hex\hex.c(31,16): warning C4566: 유니버설 문자 이름 '\u00A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+D:\project\hex\hex\hex.c(21,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hex.vcxproj -> D:\project\hex\x64\Debug\hex.exe
